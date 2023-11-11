@@ -18,8 +18,7 @@ If our work has been helpful to you, we kindly ask that when you achieve outstan
 
 Paper: "Dual-Side Disassembly Line Balancing Problem with Job Rest Time: Constraint Programming Model and Improved NSGA II Algorithm"
 
-We will periodically update relevant materials and our thoughts. However, because our team is also undertaking some other research tasks (and may consider further sharing of dynamic multi-objective optimization, deep reinforcement learning, and deep learning technology applications in industry in the future), often with project engineering requirements, updates may be delayed. But with each update, we will not only upload code but also add some of our thoughts. Additionally, we have related research based on the NSGA2--FSDRSA algorithm that is currently in the preparation for publication stage, and after publication, we will gradually upload relevant materials. We also welcome experts to review them.
-
+We will periodically update relevant materials and our thoughts. However, because our team is also undertaking some other research tasks (and may consider further sharing of dynamic multi-objective optimization, deep reinforcement learning, and deep learning technology applications in industry in the future), often with project engineering requirements, updates may be delayed. But with each update, we will not only upload code but also add some of our thoughts. In addition, we have other related research based on the NSGA2-FSDRSA algorithm, which is currently in the preparation for publication stage, and after publication, we will gradually upload relevant materials. We also welcome experts to review.
 Once again, thank you for recognizing our work.
 
 Sincerely,
