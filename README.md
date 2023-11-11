@@ -1,8 +1,14 @@
 # NSGA2--FSDRSA
 An evolutionary algorithm for solving disassembly line balancing problems
-Tree release version (based on class) and some improvements (initialization method)
+1) Tree release version (based on class) and some improvements (initialization method)
 
 Use class-based tree structure storage method initialization method
+
+AND
+
+2) Tree release version (based on matrix) and some exploration (initialization method) —— exploration attempts for cold start
+
+Use matrix-based tree structure storage method initialization method
 
 **************************************************************************************************************************************************************************
 
