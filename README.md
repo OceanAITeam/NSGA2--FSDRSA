@@ -1,4 +1,15 @@
 # NSGA2--FSDRSA
+
+20231118
+During the real-time process of the project, we redesigned the tree storage method based on dictionaries according to the actual situation of the project hardware, which effectively reduced the requirement for storage space and further improved the efficiency of the algorithm.
+
+Moreover, we also identified the cause of the "cold start problem" during the initialization process through analysis and made improvements in this version.
+
+Next time, we will consider tidying up the code related to task distribution or other modules of algorithm implementation and upload it.
+
+**************************************************************************************************************************************************************************
+
+20231111
 An evolutionary algorithm for solving disassembly line balancing problems
 1) Tree release version (based on class) and some improvements (initialization method)
 
