@@ -6,7 +6,7 @@ During the real-time process of the project, we redesigned the tree storage meth
 
 Moreover, we also identified the cause of the "cold start problem" during the initialization process through analysis and made improvements in this version.
 
-Next time, we will consider tidying up the code related to task distribution or other modules of algorithm implementation and upload it.
+Next time, we will tidy up the code related to other algorithm implementation modules and then upload it.
 
 **************************************************************************************************************************************************************************
 
