@@ -1,5 +1,15 @@
 # NSGA2--FSDRSA
 
+**************************************************************************************************************************************************************************
+
+20231126
+
+This time we uploaded the core code of the algorithm implemented using Python dictionary, which has the advantages of simple implementation and low space complexity compared to the version based on matrix. It is more suitable for practical application scenarios. However, compared to the matrix version, the running time cost of this version's algorithm is slightly increased, but it can be accelerated using multi-process technology in practical engineering applications.
+
+**************************************************************************************************************************************************************************
+
+20231118
+
 During the real-time process of the project, we redesigned the tree storage method based on dictionaries according to the actual situation of the project hardware, which effectively reduced the requirement for storage space and further improved the efficiency of the algorithm.
 
 Moreover, we also identified the cause of the "cold start problem" during the initialization process through analysis and made improvements in this version.
