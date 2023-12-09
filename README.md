@@ -1,11 +1,11 @@
-er# NSGA2--FSDRSA
+NSGA2--FSDRSA
 
 20231210
 
 Based on the actual situation of the factory (For example, specific hardware conditions of the factory, specific concerns of the factory, and so on.), necessary adjustments have been made to NSGAⅡ--FSDRSA for handling the disassembly sequence planning problem. It will be used for the factory's disassembly sequence planning.
 
 Actual usage can create a front-end page, allowing factory engineers to better understand each disassembly solution generated, making it easier for them to further choose the desired disassembly plan.
-![image]()
+![image](https://github.com/OceanAITeam/NSGA2--FSDRSA/blob/main/Scheme%20analysis.png)
 **************************************************************************************************************************************************************************
 
 20231126
